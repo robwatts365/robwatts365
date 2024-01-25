@@ -18,7 +18,7 @@ Xbox/PC gamer by night. :video_game: ...but a bearded punk rocker... always :met
 
 ## Things you could do... 
 
-1. Sponsor my projects - [GitHub Sponsors](https://github.com/sponsors/robwatts365) ❤️
+1. Show me some love - [GitHub Sponsors](https://github.com/sponsors/robwatts365) ❤️
 2. Keep me hydrated - [Buy me a beer](https://www.buymeacoffee.com/robwatts) 🍺
 
 

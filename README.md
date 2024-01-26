@@ -1,5 +1,4 @@
 ### Hey! I'm Rob 👋 
-_(He/Him)_
 
 ## A little bit about me...
 

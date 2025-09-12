@@ -2,10 +2,10 @@
 
 ## A little bit about me...
 
-I'm a Cloud Solution Architect at Microsoft by day. :technologist:  
+:technologist:  
 - Microsoft Teams Phone and Rooms Expert  
-- Empowers customers to achieve more, through knowledge and experience.
-- Builds cool solutions for everyone to enjoy! 
+- Builds cool solutions for everyone to enjoy!
+- Ex Microsoft
 
 Xbox/PC gamer by night. :video_game: ...but a bearded punk rocker... always :metal:  
 

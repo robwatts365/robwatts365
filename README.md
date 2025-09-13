@@ -3,9 +3,9 @@
 ## A little bit about me...
 
 :technologist:  
-- Microsoft Teams Phone and Rooms Expert  
+- Subject Matter Expert – Microsoft Teams Phone, Rooms, and Places
 - Builds cool solutions for everyone to enjoy!
-- Ex Microsoft
+- Microsoft alum
 
 Xbox/PC gamer by night. :video_game: ...but a bearded punk rocker... always :metal:  
 

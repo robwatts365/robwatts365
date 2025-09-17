@@ -3,6 +3,7 @@
 ## A little bit about me...
 
 :technologist:  
+- Senior UCC Engineer @ [AVI-SPL](https://avispl.com/)
 - Subject Matter Expert – Microsoft Teams Phone, Rooms, and Places
 - Builds cool solutions for everyone to enjoy!
 - Microsoft alum

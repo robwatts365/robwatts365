@@ -6,8 +6,7 @@
 - Microsoft MVP & MCT
 - Subject Matter Expert – Microsoft Teams Phone, Rooms, and Places
 - Builds cool solutions for everyone to enjoy!
-
-Full time bearded punk rocker. :metal: Part time gamer. :video_game:
+- Full time bearded punk rocker. :metal: Part time gamer. :video_game:
 
 ## Things you should do... 
 

@@ -1,8 +1,6 @@
-### Hey! I'm Rob 👋 
-
+# Hey! I'm Rob 👋 
 ## A little bit about me...
-
-# UC & Digital Workplace Evangelist.
+### UC & Digital Workplace Evangelist.
 
 :technologist:  
 - Senior UCC Engineer @ [AVI-SPL](https://avispl.com/) (Microsoft Alum)

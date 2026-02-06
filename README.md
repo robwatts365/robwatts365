@@ -2,13 +2,15 @@
 
 ## A little bit about me...
 
+# UC & Digital Workplace Evangelist.
+
 :technologist:  
-- Senior UCC Engineer @ [AVI-SPL](https://avispl.com/)
+- Senior UCC Engineer @ [AVI-SPL](https://avispl.com/) (Microsoft Alum)
+- Microsoft MVP & MCT
 - Subject Matter Expert – Microsoft Teams Phone, Rooms, and Places
 - Builds cool solutions for everyone to enjoy!
-- Microsoft alum
 
-Xbox/PC gamer by night. :video_game: ...but a bearded punk rocker... always :metal:  
+Full time bearded punk rocker. :metal: Part time gamer. :video_game:
 
 ## Things you should do... 
 

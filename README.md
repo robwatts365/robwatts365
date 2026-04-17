@@ -1,7 +1,7 @@
 # Hey! I'm Rob 👋 
 ## A little bit about me...
 
-### UC & Digital Workplace Evangelist. :technologist:  
+### Global UC & Digital Workplace Evangelist. :technologist:  
 - Senior UCC Engineer @ [AVI-SPL](https://avispl.com/) (Microsoft Alum)
 - Microsoft MVP & MCT
 - Subject Matter Expert – Microsoft Teams Phone, Rooms, and Places
